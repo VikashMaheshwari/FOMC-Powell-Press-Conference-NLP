@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large — keep out of repo)
+archive.zip
+*.txt
+data/
+
+# Generated plots
+plots/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
