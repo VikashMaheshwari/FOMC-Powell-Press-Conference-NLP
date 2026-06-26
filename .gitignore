@@ -18,8 +18,7 @@ env/
 *.txt
 data/
 
-# Generated plots
-plots/
+# Generated plots tracked in repo
 
 # IDE / OS
 .vscode/
