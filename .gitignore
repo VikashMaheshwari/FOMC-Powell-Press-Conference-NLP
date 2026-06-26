@@ -15,7 +15,6 @@ env/
 .ipynb_checkpoints/
 
 # Data (large — keep out of repo)
-archive.zip
 *.txt
 data/
 
